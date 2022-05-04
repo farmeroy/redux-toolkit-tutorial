@@ -85,6 +85,8 @@ ReactDOM.render(
 
 #### Setup Cart Slice
 
+One slice for each application feature
+
 - application feature
 - create features folder/cart
 - create cartSlice.js
